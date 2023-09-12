@@ -1,4 +1,4 @@
-# Input
+# If Conditions
 > like other languages, the shell also has if conditions which make it easier for us to do things.
 
 ## Code
