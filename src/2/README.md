@@ -1,6 +1,11 @@
-# Hello world!
+# Variable
+> like other language bash have `variable` and data type
 
-> print simple sentences with echo in bash script
-'''sh
-echo "Enter the sentence you want to print"
-'''
+## Code
+```sh
+#variable=value
+name="Tiara"
+class=12
+money=17.500
+is=true
+```
