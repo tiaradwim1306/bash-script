@@ -1,4 +1,4 @@
-![image](https://github.com/tiaradwim1306/bash-script/assets/120786669/f2d670d8-65bf-4a69-b713-7f2f4cb9694b)# Hello world!
+# Hello world!
 
 > print simple sentences with echo in bash script
 
