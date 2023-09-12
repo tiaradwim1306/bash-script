@@ -1,4 +1,5 @@
 #!/bin/bash
+
 #variable=value
 name="Tiara"
 class=12
