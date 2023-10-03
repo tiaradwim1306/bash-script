@@ -16,7 +16,7 @@ for i in {1..3};do
 done
 
 # create multiple files with almost the same contents
-echo "
+echo "automasi buat banyak file dengan isi yang sama"
 for i in {01..20};do
         filename="file$i"
         cat << EOF > $filename
