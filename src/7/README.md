@@ -29,11 +29,20 @@ done
 ## Result
 - tugas dari pak apip
 
+![image](https://github.com/tiaradwim1306/bash-script/assets/120786669/351a7568-26ed-4e08-bd02-54fab0fde450)
 
-![image](https://github.com/tiaradwim1306/bash-script/assets/120786669/3c96a596-23c9-41ef-afe3-5ef2471fb3ef)
+![image](https://github.com/tiaradwim1306/bash-script/assets/120786669/0a532659-25aa-404d-b91f-f96f64c26283)
+
+- scenario 1
+
+![image](https://github.com/tiaradwim1306/bash-script/assets/120786669/5fbfb773-a078-476c-adaf-b31c65849a66)
 
 - scenario 2
 
-![image](https://github.com/tiaradwim1306/bash-script/assets/120786669/2131d62f-4cd0-4add-9e5e-7e4eb298b7b0)
+![image](https://github.com/tiaradwim1306/bash-script/assets/120786669/31ef7984-2d02-406b-a1ff-4fa3b9ac80b7)
 
-`# the full code is in the code bar`
+- scenario 3
+
+![image](https://github.com/tiaradwim1306/bash-script/assets/120786669/561c1991-7d28-4432-9f68-434c72934159)
+
+
